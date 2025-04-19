@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "E-Book_Store.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/E-Book_Store.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/E-Book_Store.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E-Book_Store.DAL/1.0.0": {
+      "type": "project",
+      "path": "../E-Book_Store.DAL/E-Book_Store.DAL.csproj",
+      "msbuildProject": "../E-Book_Store.DAL/E-Book_Store.DAL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "E-Book_Store.DAL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\adham\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\adham\\source\\repos\\E-Book_Store.BLL\\E-Book_Store.BLL.csproj",
+      "projectName": "E-Book_Store.BLL",
+      "projectPath": "C:\\Users\\adham\\source\\repos\\E-Book_Store.BLL\\E-Book_Store.BLL.csproj",
+      "packagesPath": "C:\\Users\\adham\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\adham\\source\\repos\\E-Book_Store.BLL\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\adham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\adham\\source\\repos\\E-Book_Store.DAL\\E-Book_Store.DAL.csproj": {
+              "projectPath": "C:\\Users\\adham\\source\\repos\\E-Book_Store.DAL\\E-Book_Store.DAL.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
