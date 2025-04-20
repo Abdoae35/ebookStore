@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adham\\source\\repos\\E-Book_Store.BLL\\E-Book_Store.BLL.csproj": {}
+    "E:\\DEPI\\Tech Project\\E-Book_Store.BLL\\E-Book_Store.BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adham\\source\\repos\\E-Book_Store.BLL\\E-Book_Store.BLL.csproj": {
+    "E:\\DEPI\\Tech Project\\E-Book_Store.BLL\\E-Book_Store.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adham\\source\\repos\\E-Book_Store.BLL\\E-Book_Store.BLL.csproj",
+        "projectUniqueName": "E:\\DEPI\\Tech Project\\E-Book_Store.BLL\\E-Book_Store.BLL.csproj",
         "projectName": "E-Book_Store.BLL",
-        "projectPath": "C:\\Users\\adham\\source\\repos\\E-Book_Store.BLL\\E-Book_Store.BLL.csproj",
+        "projectPath": "E:\\DEPI\\Tech Project\\E-Book_Store.BLL\\E-Book_Store.BLL.csproj",
         "packagesPath": "C:\\Users\\adham\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adham\\source\\repos\\E-Book_Store.BLL\\obj\\",
+        "outputPath": "E:\\DEPI\\Tech Project\\E-Book_Store.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adham\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\adham\\source\\repos\\E-Book_Store.DAL\\E-Book_Store.DAL.csproj": {
-                "projectPath": "C:\\Users\\adham\\source\\repos\\E-Book_Store.DAL\\E-Book_Store.DAL.csproj"
+              "E:\\DEPI\\Tech Project\\E-Book_Store.DAL\\E-Book_Store.DAL.csproj": {
+                "projectPath": "E:\\DEPI\\Tech Project\\E-Book_Store.DAL\\E-Book_Store.DAL.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\adham\\source\\repos\\E-Book_Store.DAL\\E-Book_Store.DAL.csproj": {
+    "E:\\DEPI\\Tech Project\\E-Book_Store.DAL\\E-Book_Store.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adham\\source\\repos\\E-Book_Store.DAL\\E-Book_Store.DAL.csproj",
+        "projectUniqueName": "E:\\DEPI\\Tech Project\\E-Book_Store.DAL\\E-Book_Store.DAL.csproj",
         "projectName": "E-Book_Store.DAL",
-        "projectPath": "C:\\Users\\adham\\source\\repos\\E-Book_Store.DAL\\E-Book_Store.DAL.csproj",
+        "projectPath": "E:\\DEPI\\Tech Project\\E-Book_Store.DAL\\E-Book_Store.DAL.csproj",
         "packagesPath": "C:\\Users\\adham\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adham\\source\\repos\\E-Book_Store.DAL\\obj\\",
+        "outputPath": "E:\\DEPI\\Tech Project\\E-Book_Store.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adham\\AppData\\Roaming\\NuGet\\NuGet.Config",

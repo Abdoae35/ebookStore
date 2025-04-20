@@ -467,11 +467,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adham\\source\\repos\\E-Book_Store\\E-Book_Store.API.csproj",
+      "projectUniqueName": "E:\\DEPI\\Tech Project\\E-Book_Store\\E-Book_Store.API.csproj",
       "projectName": "E-Book_Store.API",
-      "projectPath": "C:\\Users\\adham\\source\\repos\\E-Book_Store\\E-Book_Store.API.csproj",
+      "projectPath": "E:\\DEPI\\Tech Project\\E-Book_Store\\E-Book_Store.API.csproj",
       "packagesPath": "C:\\Users\\adham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adham\\source\\repos\\E-Book_Store\\obj\\",
+      "outputPath": "E:\\DEPI\\Tech Project\\E-Book_Store\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adham\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -488,8 +488,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\adham\\source\\repos\\E-Book_Store.BLL\\E-Book_Store.BLL.csproj": {
-              "projectPath": "C:\\Users\\adham\\source\\repos\\E-Book_Store.BLL\\E-Book_Store.BLL.csproj"
+            "E:\\DEPI\\Tech Project\\E-Book_Store.BLL\\E-Book_Store.BLL.csproj": {
+              "projectPath": "E:\\DEPI\\Tech Project\\E-Book_Store.BLL\\E-Book_Store.BLL.csproj"
             }
           }
         }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adham\\source\\repos\\E-Book_Store.DAL\\E-Book_Store.DAL.csproj",
+      "projectUniqueName": "E:\\DEPI\\Tech Project\\E-Book_Store.DAL\\E-Book_Store.DAL.csproj",
       "projectName": "E-Book_Store.DAL",
-      "projectPath": "C:\\Users\\adham\\source\\repos\\E-Book_Store.DAL\\E-Book_Store.DAL.csproj",
+      "projectPath": "E:\\DEPI\\Tech Project\\E-Book_Store.DAL\\E-Book_Store.DAL.csproj",
       "packagesPath": "C:\\Users\\adham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adham\\source\\repos\\E-Book_Store.DAL\\obj\\",
+      "outputPath": "E:\\DEPI\\Tech Project\\E-Book_Store.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adham\\AppData\\Roaming\\NuGet\\NuGet.Config",
