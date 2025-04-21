@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DEPI\\Tech Project\\E-Book_Store.DAL\\E-Book_Store.DAL.csproj": {}
+    "/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store.DAL/E-Book_Store.DAL.csproj": {}
   },
   "projects": {
-    "E:\\DEPI\\Tech Project\\E-Book_Store.DAL\\E-Book_Store.DAL.csproj": {
+    "/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store.DAL/E-Book_Store.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DEPI\\Tech Project\\E-Book_Store.DAL\\E-Book_Store.DAL.csproj",
+        "projectUniqueName": "/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store.DAL/E-Book_Store.DAL.csproj",
         "projectName": "E-Book_Store.DAL",
-        "projectPath": "E:\\DEPI\\Tech Project\\E-Book_Store.DAL\\E-Book_Store.DAL.csproj",
-        "packagesPath": "C:\\Users\\adham\\.nuget\\packages\\",
-        "outputPath": "E:\\DEPI\\Tech Project\\E-Book_Store.DAL\\obj\\",
+        "projectPath": "/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store.DAL/E-Book_Store.DAL.csproj",
+        "packagesPath": "/Users/macbookpro/.nuget/packages/",
+        "outputPath": "/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store.DAL/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\adham\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/macbookpro/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,11 +33,32 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
