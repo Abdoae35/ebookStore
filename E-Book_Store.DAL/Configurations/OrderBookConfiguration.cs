@@ -4,7 +4,8 @@ public class OrderBookConfiguration : IEntityTypeConfiguration<OrderBook>
 {
     public void Configure(EntityTypeBuilder<OrderBook> builder)
     {
-        builder.HasKey(ob => new { ob.OrderId, ob.BookId });
+       builder.HasKey(ob => new { ob.OrderId, ob.BookId });
+      
 
         builder.HasOne(ob => ob.Order)
                .WithMany(o => o.OrderBooks)

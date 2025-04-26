@@ -19,5 +19,8 @@
   <ItemGroup>
     <ProjectReference Include="..\E-Book_Store.BLL\E-Book_Store.BLL.csproj" />
   </ItemGroup>
+<PropertyGroup>
+  <InvariantGlobalization>false</InvariantGlobalization>
+</PropertyGroup>
 
 </Project>

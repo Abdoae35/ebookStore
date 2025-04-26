@@ -1,3 +1,4 @@
+using E_Book_Store.BLL.Manager.UserManager;
 using E_Book_Store.DAL.Context;
 using E_Book_Store.DAL.Repository.UserRepository;
 using Microsoft.EntityFrameworkCore;
@@ -15,6 +16,7 @@ builder.Services.AddDbContext<EbookContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("cs"));
 });
 builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IUserManager, UserManager>();
 
 var app = builder.Build();
 
