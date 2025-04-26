@@ -1,0 +1,16 @@
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store.BLL/bin/Debug/net8.0/E-Book_Store.BLL.deps.json
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store.BLL/bin/Debug/net8.0/E-Book_Store.BLL.dll
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store.BLL/bin/Debug/net8.0/E-Book_Store.BLL.pdb
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store.BLL/bin/Debug/net8.0/E-Book_Store.DAL.dll
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store.BLL/bin/Debug/net8.0/E-Book_Store.DAL.pdb
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store.BLL/obj/Debug/net8.0/E-Book_Store.BLL.csproj.AssemblyReference.cache
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store.BLL/obj/Debug/net8.0/E-Book_Store.BLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store.BLL/obj/Debug/net8.0/E-Book_Store.BLL.AssemblyInfoInputs.cache
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store.BLL/obj/Debug/net8.0/E-Book_Store.BLL.AssemblyInfo.cs
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store.BLL/obj/Debug/net8.0/E-Book_Store.BLL.csproj.CoreCompileInputs.cache
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store.BLL/obj/Debug/net8.0/E-Book_Store.BLL.sourcelink.json
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store.BLL/obj/Debug/net8.0/E-Book_S.63E96503.Up2Date
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store.BLL/obj/Debug/net8.0/E-Book_Store.BLL.dll
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store.BLL/obj/Debug/net8.0/refint/E-Book_Store.BLL.dll
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store.BLL/obj/Debug/net8.0/E-Book_Store.BLL.pdb
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store.BLL/obj/Debug/net8.0/ref/E-Book_Store.BLL.dll

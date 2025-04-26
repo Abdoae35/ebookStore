@@ -54,11 +54,20 @@ public class UserManager : IUserManager
     public void Update(UserUpdateDto user)
     {
         var userFromDb = _userRepository.GetUsersById(user.Id);
-        userFromDb.Name = user.Name;
-        userFromDb.Email = user.Email;
-        userFromDb.Phone = user.Phone;
-        userFromDb.Address = user.Address;
-        userFromDb.Phone = user.Phone;
+        if (userFromDb.Name != null)
+             userFromDb.Name = user.Name;
+        
+        if (userFromDb.Email != null)
+            userFromDb.Email = user.Email;
+        
+        if (userFromDb.Phone != null)
+            userFromDb.Phone = user.Phone;
+        
+        if (userFromDb.Address != null)
+            userFromDb.Address = user.Address;
+        
+        _userRepository.Update(userFromDb);
+       
     }
 
     public void Delete(int id)
