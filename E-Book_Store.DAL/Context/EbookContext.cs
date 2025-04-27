@@ -1,8 +1,11 @@
 
 
+using E_Book_Store.DAL.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+
 namespace E_Book_Store.DAL.Context;
 
-public class EbookContext : DbContext
+public class EbookContext : IdentityDbContext<ApplicationUser>
 {
     public EbookContext(DbContextOptions<EbookContext> options)  : base(options)
     {
@@ -11,6 +14,8 @@ public class EbookContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        base.OnModelCreating(modelBuilder);
+
        modelBuilder.ApplyConfiguration(new OrderBookConfiguration());
        modelBuilder.ApplyConfiguration(new OrderConfiguration());
        modelBuilder.ApplyConfiguration(new BookConfiguration());
@@ -29,6 +34,7 @@ public class EbookContext : DbContext
     public DbSet<OrderBook> OrderBooks { get; set; }
     public DbSet<Payment> Payments { get; set; }
     public DbSet<ReviewAndRating> ReviewsAndRatings { get; set; }
+
     //public DbSet<WhisingList> WhisingLists { get; set; }
     
 }

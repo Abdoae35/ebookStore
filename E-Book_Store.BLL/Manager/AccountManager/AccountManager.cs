@@ -62,7 +62,7 @@ namespace E_Book_Store.BLL.Manager
                 // if successful we create token but create claims first
                 var claims = new List<Claim>();
                 claims.Add(new Claim("Role", "Admin"));
-                claims.Add(new Claim("Name", registerDto.Name));
+                claims.Add(new Claim("Email", registerDto.Email));
 
                 await _userManager.AddClaimsAsync(user, claims);
 
@@ -77,25 +77,22 @@ namespace E_Book_Store.BLL.Manager
 
         }
 
-        public string GenerateToken(IList<Claim> claims)
-        {
-            var SecretKey = _configuration.GetSection("SecretKey").Value;
-
-            var SecretKeyByte = Encoding.UTF8.GetBytes(SecretKey);
-
-            SecurityKey securityKey = new SymmetricSecurityKey(SecretKeyByte);
-
-            SigningCredentials signingCredentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
-
-            var expire = DateTime.UtcNow.AddDays(5);
-
-            JwtSecurityToken jwtSecurityToken = new JwtSecurityToken(claims: claims, expires: expire, signingCredentials: signingCredentials);
-
+       private string GenerateToken(IList<Claim> claims)
+            {
+                
+            var secretKeyString = _configuration.GetSection("SecretKey").Value;
+            var secretKeyByte = Encoding.UTF8.GetBytes(secretKeyString);
+            SecurityKey securityKey = new SymmetricSecurityKey(secretKeyByte);
+            
+            SigningCredentials credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
+            
+            var expiration = DateTime.UtcNow.AddDays(5);
+            JwtSecurityToken  jwtSecurityToken = new JwtSecurityToken(claims:claims,expires: expiration,signingCredentials: credentials);
+            
+             
             JwtSecurityTokenHandler handler = new JwtSecurityTokenHandler();
-
-            var token = handler.WriteToken(jwtSecurityToken);
-
-            return token;
-        }
+            string Token = handler.WriteToken(jwtSecurityToken);
+            return Token;
+            }
     }
 }

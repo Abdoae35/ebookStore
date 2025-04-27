@@ -124,7 +124,6 @@
 /Users/macbookpro/RiderProjects/EbookStore/E-Book_Store/obj/Debug/net8.0/E-Book_Store.API.csproj.CoreCompileInputs.cache
 /Users/macbookpro/RiderProjects/EbookStore/E-Book_Store/obj/Debug/net8.0/E-Book_Store.API.MvcApplicationPartsAssemblyInfo.cs
 /Users/macbookpro/RiderProjects/EbookStore/E-Book_Store/obj/Debug/net8.0/E-Book_Store.API.MvcApplicationPartsAssemblyInfo.cache
-/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store/obj/Debug/net8.0/E-Book_Store.API.sourcelink.json
 /Users/macbookpro/RiderProjects/EbookStore/E-Book_Store/obj/Debug/net8.0/staticwebassets.build.json
 /Users/macbookpro/RiderProjects/EbookStore/E-Book_Store/obj/Debug/net8.0/staticwebassets.development.json
 /Users/macbookpro/RiderProjects/EbookStore/E-Book_Store/obj/Debug/net8.0/staticwebassets/msbuild.E-Book_Store.API.Microsoft.AspNetCore.StaticWebAssets.props
@@ -139,3 +138,14 @@
 /Users/macbookpro/RiderProjects/EbookStore/E-Book_Store/obj/Debug/net8.0/E-Book_Store.API.pdb
 /Users/macbookpro/RiderProjects/EbookStore/E-Book_Store/obj/Debug/net8.0/E-Book_Store.API.genruntimeconfig.cache
 /Users/macbookpro/RiderProjects/EbookStore/E-Book_Store/obj/Debug/net8.0/ref/E-Book_Store.API.dll
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store/bin/Debug/net8.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store/bin/Debug/net8.0/Microsoft.Extensions.ObjectPool.dll
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store/bin/Debug/net8.0/Microsoft.Extensions.WebEncoders.dll
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store/bin/Debug/net8.0/System.Security.Cryptography.Xml.dll
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll

@@ -17,6 +17,7 @@ namespace E_Book_Store.Controllers
         }
 
         [HttpPost]
+        [Route("login")]
         public async Task<ActionResult> Login(LoginDto loginDto)
         {
             var result = await _account.Login(loginDto);
@@ -29,6 +30,7 @@ namespace E_Book_Store.Controllers
         }
 
         [HttpPost]
+        [Route("register")]
         public async Task<ActionResult> Register(RegisterDto registerDto)
         {
             var result = await _account.Regsiter(registerDto);
