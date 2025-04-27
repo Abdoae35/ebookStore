@@ -30,11 +30,12 @@ public class UserController : ControllerBase
    }
 
    [HttpPut]
-   public IActionResult Update(int id,UserUpdateDto user)
+   public IActionResult Update(int id, UserUpdateDto user)
    {
        if (id != user.Id)
         return BadRequest();
-       var userFromDb = _userManager.GetById(id);
+      // var userFromDb = _userManager.GetById(id);
+
        _userManager.Update(user);
        return Ok();
    }

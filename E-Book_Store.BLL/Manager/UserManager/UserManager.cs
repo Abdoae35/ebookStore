@@ -54,18 +54,22 @@ public class UserManager : IUserManager
     public void Update(UserUpdateDto user)
     {
         var userFromDb = _userRepository.GetUsersById(user.Id);
-        if (userFromDb.Name != null)
-             userFromDb.Name = user.Name;
-        
-        if (userFromDb.Email != null)
+
+        if (userFromDb == null)
+            throw new Exception($"User with ID {user.Id} not found.");
+
+        if (!string.IsNullOrWhiteSpace(user.Name))
+            userFromDb.Name = user.Name;
+
+        if (!string.IsNullOrWhiteSpace(user.Email))
             userFromDb.Email = user.Email;
-        
-        if (userFromDb.Phone != null)
+
+        if (!string.IsNullOrWhiteSpace(user.Phone))
             userFromDb.Phone = user.Phone;
-        
-        if (userFromDb.Address != null)
-            userFromDb.Address = user.Address;
-        
+
+         if (!string.IsNullOrWhiteSpace(user.Address))
+             userFromDb.Address = user.Address;
+             
         _userRepository.Update(userFromDb);
        
     }
