@@ -149,3 +149,4 @@
 /Users/macbookpro/RiderProjects/EbookStore/E-Book_Store/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
 /Users/macbookpro/RiderProjects/EbookStore/E-Book_Store/bin/Debug/net8.0/System.Security.Cryptography.Xml.dll
 /Users/macbookpro/RiderProjects/EbookStore/E-Book_Store/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+/Users/macbookpro/RiderProjects/EbookStore/E-Book_Store/obj/Debug/net8.0/E-Book_Store.API.sourcelink.json

@@ -1,10 +1,7 @@
-using E_Book_Store.BLL.Manager;
-using E_Book_Store.BLL.Manager.UserManager;
-using E_Book_Store.DAL.Context;
-using E_Book_Store.DAL.Models;
-using E_Book_Store.DAL.Repository.UserRepository;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.EntityFrameworkCore;
+using E_Book_Store.BLL.Manager.BookManager;
+using E_Book_Store.BLL.Manager.InvoicesManager;
+using E_Book_Store.DAL.Repository.BookRepository;
+using E_Book_Store.DAL.Repository.InvoicesRepository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -24,6 +21,12 @@ builder.Services.AddScoped<IUserManager, UserManager>();
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<EbookContext>();
 
 builder.Services.AddScoped<IAccountManager, AccountManager>();
+builder.Services.AddScoped<IOrderManager, OrderManager>();
+builder.Services.AddScoped<IOrderRepository, OrderRepository>();
+builder.Services.AddScoped<IBookRepository, BookRepository>();
+builder.Services.AddScoped<IBookManager, BookManager>();
+builder.Services.AddScoped<IInvoicesRepository, InvoicesRepository>();
+builder.Services.AddScoped<IInvoicesManager, InvoiceManager>();
 
 var app = builder.Build();
 

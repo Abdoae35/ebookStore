@@ -10,9 +10,9 @@ public class UserRepository : IUserRepository
     {
         _context = context;
     }
-    public ICollection<User> GetAllUsers()
+    public IQueryable<User> GetAllUsers()
     {
-       var Users = _context.Users.ToList();
+        var Users = _context.Users.AsNoTracking();
        return Users;
     }
 
