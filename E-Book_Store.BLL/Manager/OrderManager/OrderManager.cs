@@ -15,7 +15,7 @@ public class OrderManager : IOrderManager
     {
         var orders = _orderRepository.GetAllOrders().Select(a => new OrderReadDto
         {
-            Date = a.Date,
+            Date = a.CreatedAt,
             Price = a.Price,
             State = a.State,
             UserId = a.UserId
@@ -30,7 +30,7 @@ public class OrderManager : IOrderManager
         var order = _orderRepository.GetOrderById(id);
         var orderDto = new OrderReadDto()
         {
-            Date = order.Date,
+            Date = order.CreatedAt,
             Price = order.Price,
             State = order.State,
             UserId = order.UserId
@@ -42,15 +42,21 @@ public class OrderManager : IOrderManager
 
     public void insert(OrderAddDto orderAddDto)
     {
+        var orderbook = new OrderBook()
+        {
+            BookId = orderAddDto.BookId,
+            OrderId = orderAddDto.Id
+        };
         var order = new Order()
         {
-            Date = orderAddDto.Date,
+            CreatedAt = orderAddDto.Date,
             Price = orderAddDto.Price,
             State = orderAddDto.State,
-            UserId = orderAddDto.UserId
+            UserId = orderAddDto.UserId,
 
         };
-        _orderRepository.insert(order);
+        _orderRepository.insert(order,orderbook);
+        
     }
 
     public void Update(OrderUpdateDto orderUpdateDto)

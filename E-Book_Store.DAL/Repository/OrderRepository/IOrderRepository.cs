@@ -4,7 +4,7 @@ public interface IOrderRepository
 {
     public IQueryable<Order> GetAllOrders();
     public Order GetOrderById(int id);
-    public void insert(Order order);
+    public void insert(Order order,OrderBook orderbook);
     public void Update(Order order);
     public void Delete(Order order);
 }

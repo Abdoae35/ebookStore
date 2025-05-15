@@ -6,5 +6,5 @@ public class BookUpdateDto
     public string Title { get; set; } = null!;
     public string BookUrl { get; set; }
     public string Description { get; set; } = null!;
-    public decimal Price { get; set; }
+    public double Price { get; set; }
 }

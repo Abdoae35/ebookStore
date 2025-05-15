@@ -9,17 +9,27 @@ public class BookManager : IBookManager
         _bookRepository = bookRepository;
     }
     
-    public IEnumerable<BookReadDto> GetAll()
+    public IEnumerable<BookReadDto> GetAll(int page = 1, int pageSize = 6)
     {
-        List<BookReadDto> books = _bookRepository.GetAllBooks().Select(a => new BookReadDto
-        {
-            Author = a.Author,
-            BookUrl = a.BookUrl,
-            Description = a.Description,
-            Title = a.Title,
-        }).ToList();
+        var skip = (page - 1) * pageSize;
+
+        var books = _bookRepository.GetAllBooks()
+            .Skip(skip)
+            .Take(pageSize)
+            .Select(a => new BookReadDto
+            {
+                Author = a.Author,
+                BookUrl = a.BookUrl,
+                Description = a.Description,
+                Price = a.Price,
+                ImageUrl = a.ImageUrl,
+                Title = a.Title
+            })
+            .ToList();
+
         return books;
     }
+
 
     public BookReadDto GetById(int id)
     {
@@ -41,7 +51,9 @@ public class BookManager : IBookManager
             Author = bookAddDto.Author,
             BookUrl = bookAddDto.BookUrl,
             Description = bookAddDto.Description,
-            Title = bookAddDto.Title
+            Title = bookAddDto.Title,
+            ImageUrl = bookAddDto.ImageUrl,
+            Price = bookAddDto.Price,
         };
         _bookRepository.insert(book);
     }

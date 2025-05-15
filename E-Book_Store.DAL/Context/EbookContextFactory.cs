@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Design;
 public class EbookContextFactory : IDesignTimeDbContextFactory<EbookContext>
 {
     private string cs =
-        "Server=localhost;Database=EbookStoreDb;User Id=SA;Password=ABleniux12;TrustServerCertificate=True";
+        "Server=localhost;Database=EbookStoreDb;User Id=sa;Password=Abdo@1234;TrustServerCertificate=True";
     public EbookContext CreateDbContext(string[] args)
     {
         var optionsBuilder = new DbContextOptionsBuilder<EbookContext>();

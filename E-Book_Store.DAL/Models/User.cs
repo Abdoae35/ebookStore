@@ -11,4 +11,7 @@ public class User
     public DateTime DateOfCreation { get; set; } = DateTime.Now;
     public ICollection<Order> Orders { get; set; } = new List<Order>();
     public ICollection<ReviewAndRating> Reviews { get; set; } = new List<ReviewAndRating>();
+    
+    //one user for many invoices
+    public ICollection<Invoice> Invoices { get; set; } 
 }

@@ -44,6 +44,16 @@ namespace E_Book_Store.DAL.Migrations
                         .HasMaxLength(500)
                         .HasColumnType("nvarchar(500)");
 
+                    b.Property<string>("ImageUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int?>("PageNumber")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("PageSize")
+                        .HasColumnType("int");
+
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(18,2)");
 
@@ -52,7 +62,12 @@ namespace E_Book_Store.DAL.Migrations
                         .HasMaxLength(200)
                         .HasColumnType("nvarchar(200)");
 
+                    b.Property<int?>("WhishingId")
+                        .HasColumnType("int");
+
                     b.HasKey("BookId");
+
+                    b.HasIndex("WhishingId");
 
                     b.ToTable("Books");
                 });
@@ -120,6 +135,101 @@ namespace E_Book_Store.DAL.Migrations
                         .HasFilter("[NormalizedUserName] IS NOT NULL");
 
                     b.ToTable("AspNetUsers", (string)null);
+                });
+
+            modelBuilder.Entity("E_Book_Store.DAL.Models.Cart", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Carts");
+                });
+
+            modelBuilder.Entity("E_Book_Store.DAL.Models.CartItem", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("BookId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("CartId")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("DateAdded")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("Quantity")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("BookId");
+
+                    b.HasIndex("CartId");
+
+                    b.ToTable("CartItems");
+                });
+
+            modelBuilder.Entity("E_Book_Store.DAL.Models.WhisingList", b =>
+                {
+                    b.Property<int>("WishId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("WishId"));
+
+                    b.Property<int>("NumberOfBooks")
+                        .HasColumnType("int");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
+                    b.HasKey("WishId");
+
+                    b.ToTable("WhisingLists");
+                });
+
+            modelBuilder.Entity("Invoice", b =>
+                {
+                    b.Property<int>("InvoicesId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("InvoicesId"));
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
+
+                    b.Property<int>("OrderId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("State")
+                        .HasColumnType("int");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
+                    b.HasKey("InvoicesId");
+
+                    b.HasIndex("OrderId")
+                        .IsUnique();
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("Invoices");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
@@ -263,10 +373,22 @@ namespace E_Book_Store.DAL.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("OrderId"));
 
-                    b.Property<DateTime>("Date")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("datetime2")
-                        .HasDefaultValueSql("GETDATE()");
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("CreatedBy")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("DeletedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("DeletedBy")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
 
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(18,2)");
@@ -274,6 +396,13 @@ namespace E_Book_Store.DAL.Migrations
                     b.Property<int>("State")
                         .HasMaxLength(50)
                         .HasColumnType("int");
+
+                    b.Property<DateTime>("UpdatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("UpdatedBy")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("UserId")
                         .HasColumnType("int");
@@ -298,40 +427,6 @@ namespace E_Book_Store.DAL.Migrations
                     b.HasIndex("BookId");
 
                     b.ToTable("OrderBooks");
-                });
-
-            modelBuilder.Entity("Payment", b =>
-                {
-                    b.Property<int>("PaymentId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("PaymentId"));
-
-                    b.Property<int>("CVV")
-                        .HasMaxLength(4)
-                        .HasColumnType("int");
-
-                    b.Property<int>("CardNumber")
-                        .HasColumnType("int");
-
-                    b.Property<DateTime>("Expiration")
-                        .HasColumnType("datetime2");
-
-                    b.Property<int>("OrderId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("Type")
-                        .IsRequired()
-                        .HasMaxLength(20)
-                        .HasColumnType("nvarchar(20)");
-
-                    b.HasKey("PaymentId");
-
-                    b.HasIndex("OrderId")
-                        .IsUnique();
-
-                    b.ToTable("Payments");
                 });
 
             modelBuilder.Entity("ReviewAndRating", b =>
@@ -401,6 +496,53 @@ namespace E_Book_Store.DAL.Migrations
                     b.HasKey("UserId");
 
                     b.ToTable("Users");
+                });
+
+            modelBuilder.Entity("Book", b =>
+                {
+                    b.HasOne("E_Book_Store.DAL.Models.WhisingList", "WhisingList")
+                        .WithMany("Books")
+                        .HasForeignKey("WhishingId");
+
+                    b.Navigation("WhisingList");
+                });
+
+            modelBuilder.Entity("E_Book_Store.DAL.Models.CartItem", b =>
+                {
+                    b.HasOne("Book", "Book")
+                        .WithMany("CartItems")
+                        .HasForeignKey("BookId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("E_Book_Store.DAL.Models.Cart", "Cart")
+                        .WithMany("CartItems")
+                        .HasForeignKey("CartId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Book");
+
+                    b.Navigation("Cart");
+                });
+
+            modelBuilder.Entity("Invoice", b =>
+                {
+                    b.HasOne("Order", "Order")
+                        .WithOne("Invoice")
+                        .HasForeignKey("Invoice", "OrderId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("User", "User")
+                        .WithMany("Invoices")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.NoAction)
+                        .IsRequired();
+
+                    b.Navigation("Order");
+
+                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -484,17 +626,6 @@ namespace E_Book_Store.DAL.Migrations
                     b.Navigation("Order");
                 });
 
-            modelBuilder.Entity("Payment", b =>
-                {
-                    b.HasOne("Order", "Order")
-                        .WithOne()
-                        .HasForeignKey("Payment", "OrderId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Order");
-                });
-
             modelBuilder.Entity("ReviewAndRating", b =>
                 {
                     b.HasOne("Book", "Book")
@@ -516,18 +647,35 @@ namespace E_Book_Store.DAL.Migrations
 
             modelBuilder.Entity("Book", b =>
                 {
+                    b.Navigation("CartItems");
+
                     b.Navigation("OrderBooks");
 
                     b.Navigation("Reviews");
                 });
 
+            modelBuilder.Entity("E_Book_Store.DAL.Models.Cart", b =>
+                {
+                    b.Navigation("CartItems");
+                });
+
+            modelBuilder.Entity("E_Book_Store.DAL.Models.WhisingList", b =>
+                {
+                    b.Navigation("Books");
+                });
+
             modelBuilder.Entity("Order", b =>
                 {
+                    b.Navigation("Invoice")
+                        .IsRequired();
+
                     b.Navigation("OrderBooks");
                 });
 
             modelBuilder.Entity("User", b =>
                 {
+                    b.Navigation("Invoices");
+
                     b.Navigation("Orders");
 
                     b.Navigation("Reviews");

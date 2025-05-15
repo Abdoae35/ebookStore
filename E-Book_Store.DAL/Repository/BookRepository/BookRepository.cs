@@ -11,10 +11,10 @@ public class BookRepository : IBookRepository
         _context = context;
     }
     
-    public ICollection<Book> GetAllBooks()
+    public IQueryable<Book> GetAllBooks()
     {
-        var books = _context.Books.AsNoTracking().ToList();
-        return books;
+        
+        return  _context.Books.AsNoTracking();
         
     }
 

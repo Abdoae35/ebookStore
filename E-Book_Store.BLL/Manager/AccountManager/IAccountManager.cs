@@ -11,6 +11,8 @@ namespace E_Book_Store.BLL.Manager
     {
         Task<string> Login(LoginDto loginDto);
         Task<string> Regsiter(RegisterDto registerDto);
+        Task<string> CreateRole(RoleAddDto roleAddDto);
+        Task<string?> AssignRoleToUser(AssignRoleToUserDto asssignRoleToUserDto);
 
     }
 }

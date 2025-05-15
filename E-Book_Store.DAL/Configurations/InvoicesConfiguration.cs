@@ -11,8 +11,13 @@ public class InvoicesConfiguration : IEntityTypeConfiguration<Invoice>
       
 
         builder.HasOne(p => p.Order)
-            .WithOne()
-            .HasForeignKey<Invoice>(p => p.OrderId);
+            .WithOne(a => a.Invoice)
+            .HasForeignKey<Invoice>(a => a.OrderId)
+            .OnDelete(DeleteBehavior.Cascade);
+        
+       
+        
+            
         
     }
 }

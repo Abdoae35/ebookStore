@@ -41,6 +41,24 @@ namespace E_Book_Store.Controllers
             return Ok(result);
 
         }
+        [HttpPost("AddNewRole")]
+        public async Task<ActionResult>AddRole(RoleAddDto roleAddDto)
+        {
+            var result = await _account.CreateRole(roleAddDto);
+            if (result==null)
+                return BadRequest();
+            return Ok(result);
+        }
+        [HttpPost("AssignRoleToUser")]
+        public async  Task<ActionResult> AssignRoleToUser(AssignRoleToUserDto assignRoleToUserDto)
+        {
+            var result = await _account.AssignRoleToUser(assignRoleToUserDto);
+            if (result==null)
+            {
+                return BadRequest();
+            }
+            return Ok(result);
+        }
     }
 
     

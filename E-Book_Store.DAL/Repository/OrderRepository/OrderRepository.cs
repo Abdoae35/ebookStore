@@ -22,9 +22,10 @@ public class OrderRepository : IOrderRepository
        return order;
     }
 
-    public void insert(Order order)
+    public void insert(Order order,OrderBook orderbook)
     {
        _context.Orders.Add(order);
+       _context.OrderBooks.Add(orderbook);
        _context.SaveChanges();
     }
 

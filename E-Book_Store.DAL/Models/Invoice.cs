@@ -8,8 +8,11 @@ public class Invoice
     
     public States State { get; set; }
     
-    public User User { get; set; }
+    //one to Many - one user for many invoices
     public int UserId { get; set; }
+    public User User { get; set; }
+    
+    //one to one - one Invoice for one order
     public int OrderId { get; set; }
     public Order Order { get; set; } = null!;
 }

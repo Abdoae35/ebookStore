@@ -1,10 +1,14 @@
 using E_Book_Store.BLL.Dtos.BookDtos;
+using E_Book_Store.BLL.Dtos.PaginationList;
 using E_Book_Store.BLL.Manager.BookManager;
 
 namespace E_Book_Store.Controllers;
 
+
+
+
 [ApiController]
-[Route("[controller]")]
+[Route("api/[controller]")]
 public class BookController : ControllerBase
 {
     private readonly IBookManager _bookManager;
@@ -13,13 +17,15 @@ public class BookController : ControllerBase
     {
         _bookManager = bookManager;
     }
-
+        //I will apply pagination here over this api
+        // first Download two packages cloudScribe.Pagination.Models & cloudScribe.web.Pagination
     [HttpGet]
-    public IActionResult GetAll()
+    public IActionResult GetAll(int page = 1, int pageSize = 6)
     {
-        var Books = _bookManager.GetAll().ToList();
-        return Books == null ? NotFound("No Books Available") : Ok(Books);
+        var books = _bookManager.GetAll(page, pageSize);
+        return Ok(books);
     }
+
 
     [HttpGet("{id}")]
     public IActionResult GetById(int id)
@@ -32,7 +38,7 @@ public class BookController : ControllerBase
     public IActionResult Add(BookAddDto  bookAddDto)
     {
         _bookManager.insert(bookAddDto);
-        //createdaction
+        //createdataction
         return Ok();
     }
 

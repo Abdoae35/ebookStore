@@ -23,7 +23,48 @@ public class EbookContext : IdentityDbContext<ApplicationUser>
        modelBuilder.ApplyConfiguration(new ReviewAndRatingConfiguration());
        modelBuilder.ApplyConfiguration(new InvoicesConfiguration());
        modelBuilder.ApplyConfiguration(new UserConfiguration());
+       modelBuilder.ApplyConfiguration(new CartConfigurations());
+       modelBuilder.ApplyConfiguration(new WishingListConfigurattion());
+       
     }
+
+    public override int SaveChanges()
+    {
+        var entries = ChangeTracker.Entries<BaseEntity>();
+        foreach (var entry in entries)
+        {
+            switch (entry.State)
+            {
+                case EntityState.Deleted:
+                    entry.Entity.DeletedAt = DateTime.UtcNow;
+                    entry.Entity.DeletedBy =string.Empty;
+                    entry.State = EntityState.Modified;
+                    entry.Entity.IsDeleted.Equals(true);
+                    break;
+            
+            
+                case EntityState.Added:
+                    entry.Entity.CreatedAt = DateTime.UtcNow;
+                    entry.Entity.CreatedBy =string.Empty;
+                    break;
+
+
+                case EntityState.Modified:
+                    entry.Entity.UpdatedAt = DateTime.UtcNow;
+                    entry.Entity.UpdatedBy =string.Empty;
+                    break;
+
+            }
+        
+           
+        }
+        
+        return base.SaveChanges();
+
+  
+    }
+    
+    
 
     public override async Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
     {
@@ -45,7 +86,9 @@ public class EbookContext : IdentityDbContext<ApplicationUser>
     
     public DbSet<Invoice?> Invoices { get; set; }
     public DbSet<ReviewAndRating> ReviewsAndRatings { get; set; }
+    public DbSet<Cart> Carts { get; set; }
+    public DbSet<CartItem> CartItems { get; set; }
 
-    //public DbSet<WhisingList> WhisingLists { get; set; }
+    public DbSet<WhisingList> WhisingLists { get; set; }
     
 }

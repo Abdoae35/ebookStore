@@ -1,32 +1,19 @@
-﻿using E_Book_Store.BLL.Dtos.AccountDto;
-using E_Book_Store.BLL.Manager.UserManager;
-using E_Book_Store.DAL.Models;
-using Microsoft.AspNetCore.Authentication.Cookies;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.Extensions.Configuration;
-using Microsoft.IdentityModel.Tokens;
-using System;
-using System.Collections.Generic;
-using System.IdentityModel.Tokens.Jwt;
-using System.Linq;
-using System.Security.Claims;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace E_Book_Store.BLL.Manager.AccountManager;
 
-namespace E_Book_Store.BLL.Manager
-{
 
     public class AccountManager : IAccountManager
     {
         private readonly UserManager<ApplicationUser> _userManager;
-
+        private readonly RoleManager<IdentityRole> _roleManager;
         private readonly IConfiguration _configuration;
 
 
-        public AccountManager(UserManager<ApplicationUser> userManager, IConfiguration configuration)
+        public AccountManager(UserManager<ApplicationUser> userManager,RoleManager<IdentityRole> roleManager
+            ,IConfiguration configuration)
         {
             _userManager = userManager;
             _configuration = configuration;
+            _roleManager = roleManager;
         }
 
         public async Task<string> Login(LoginDto loginDto)
@@ -77,7 +64,37 @@ namespace E_Book_Store.BLL.Manager
 
         }
 
-       private string GenerateToken(IList<Claim> claims)
+        public async Task<string> CreateRole(RoleAddDto roleAddDto)
+        {
+            IdentityRole role  = new IdentityRole();
+            role.Name = roleAddDto.RoleName;
+            var result = await _roleManager.CreateAsync(role);
+            if (result.Succeeded)
+                return "Created Successfully";
+            return null;
+            
+        }
+
+        public async Task<string?> AssignRoleToUser(AssignRoleToUserDto assignRoleToUserDto)
+        {
+            var user = await _userManager.FindByIdAsync(assignRoleToUserDto.UserId); 
+            var role = await _roleManager.FindByIdAsync(assignRoleToUserDto.RoleId);
+            IdentityError? error;
+            if (user!=null && role!=null)
+            {
+                var result = await _userManager.AddToRoleAsync(user, role.Name); 
+                error = result.Errors.FirstOrDefault();
+                if (result.Succeeded)
+                {
+                    return  "Assigned Successfully";
+                }
+            }
+
+            return null;
+
+        }
+
+        private string GenerateToken(IList<Claim> claims)
             {
                 
             var secretKeyString = _configuration.GetSection("SecretKey").Value;
@@ -95,4 +112,4 @@ namespace E_Book_Store.BLL.Manager
             return Token;
             }
     }
-}
+
