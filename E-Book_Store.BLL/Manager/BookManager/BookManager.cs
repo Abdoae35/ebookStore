@@ -11,7 +11,8 @@ public class BookManager : IBookManager
     
     public IEnumerable<BookReadDto> GetAll(int page = 1, int pageSize = 6)
     {
-        var skip = (page - 1) * pageSize;
+        
+        var skip = (pageSize * page) - pageSize;
 
         var books = _bookRepository.GetAllBooks()
             .Skip(skip)
@@ -42,6 +43,11 @@ public class BookManager : IBookManager
             Title = book.Title
         };
         return bookModel;
+    }
+
+    public int TotalItems()
+    {
+        return _bookRepository.GetAllBooks().Count();
     }
 
     public void insert(BookAddDto bookAddDto)

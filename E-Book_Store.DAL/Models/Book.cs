@@ -7,9 +7,6 @@ public class Book
     public string Description { get; set; } = null!;
     public double Price { get; set; }
     public string ImageUrl { get; set; } = null!;
-
-    public int? PageNumber { get; set; }
-    public int? PageSize { get; set; }
     
     
     //Many book to Many Cart

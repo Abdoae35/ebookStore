@@ -4,6 +4,7 @@ public interface IBookManager
 {
     public IEnumerable<BookReadDto> GetAll(int page = 1, int pageSize = 6);
     public BookReadDto GetById(int id);
+    public int TotalItems();
     public void insert(BookAddDto bookAddDto);
     public void Update(BookUpdateDto bookUpdateDto);
     public void Delete(int id);

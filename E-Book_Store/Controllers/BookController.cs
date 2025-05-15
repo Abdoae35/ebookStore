@@ -1,3 +1,4 @@
+using cloudscribe.Pagination.Models;
 using E_Book_Store.BLL.Dtos.BookDtos;
 using E_Book_Store.BLL.Dtos.PaginationList;
 using E_Book_Store.BLL.Manager.BookManager;
@@ -22,8 +23,16 @@ public class BookController : ControllerBase
     [HttpGet]
     public IActionResult GetAll(int page = 1, int pageSize = 6)
     {
+        
         var books = _bookManager.GetAll(page, pageSize);
-        return Ok(books);
+        var result = new PagedResult<BookReadDto>()
+        {
+            Data = books.ToList(),
+            PageNumber = page,
+            PageSize = pageSize,
+            TotalItems = _bookManager.TotalItems()
+        };
+        return Ok(result);
     }
 
 
