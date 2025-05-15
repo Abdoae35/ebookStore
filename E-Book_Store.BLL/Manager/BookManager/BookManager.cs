@@ -19,6 +19,7 @@ public class BookManager : IBookManager
             .Take(pageSize)
             .Select(a => new BookReadDto
             {
+                Id = a.BookId,
                 Author = a.Author,
                 BookUrl = a.BookUrl,
                 Description = a.Description,
