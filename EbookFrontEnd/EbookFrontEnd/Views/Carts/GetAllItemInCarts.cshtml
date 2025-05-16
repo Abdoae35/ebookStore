@@ -1,0 +1,139 @@
+
+
+@model List<CartReadVm>
+
+@functions {
+    private double BooksPrice { get; set; }
+}
+@{
+    ViewData["Title"] = "GetAllCartByUserId";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@foreach (var item in Model)
+{
+    BooksPrice += item.Book.Price;
+}
+
+
+
+<div class="cart-section section-padding">
+        <div class="container">
+            <div class="main-cart-wrapper">
+                <div class="row g-5">
+                    <div class="col-xl-9">
+                        <div class="table-responsive">
+                            <table class="table">
+                                <thead>
+                                <tr>
+                                    <th>Product</th>
+                                    <th>Price</th>
+                                    <th>Quantity</th>
+                                    <th>Subtotal</th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                @foreach (var item in Model)
+                                {
+
+
+                                    <tr>
+                                        <td>
+                                            <span class="d-flex gap-5 align-items-center">
+                                                <a asp-action="RemoveItemFromCart" asp-controller="Carts" asp-route-id="@item.Id" class="remove-icon">
+                                                    <img src="~/img/icon/icon-9.svg" alt="img">
+                                                </a>
+                                                <span class="cart">
+                                                    <img src="~/img/book/@item.Book.ImageUrl" alt="img">
+                                                </span>
+                                                <span class="cart-title">
+                                                    @item.Book.Title
+                                                </span>
+                                            </span>
+                                        </td>
+                                        <td>
+                                            <span class="cart-price">$@item.Book.Price</span>
+                                        </td>
+                                        <td>
+                                            <span class="quantity-basket">
+                                                <span class="qty">
+                                                    <button class="qtyminus" aria-hidden="true">−</button>
+                                                    <input type="number" name="qty" id="qty2" min="1" max="10" step="1"
+                                                           value="1">
+                                                    <button class="qtyplus" aria-hidden="true">+</button>
+                                                </span>
+                                            </span>
+                                        </td>
+                                        <td>
+                                            <span class="subtotal-price">$@item.Book.Price</span>
+                                        </td>
+                                    </tr>
+                                }
+
+                                </tbody>
+                            </table>
+                        </div>
+                        
+                        <div class="cart-wrapper-footer">
+                            <form action="shop-cart.html">
+                                <div class="input-area">
+                                    <input type="text" name="Coupon Code" id="CouponCode" placeholder="Coupon Code">
+                                    <button type="submit" class="theme-btn">
+                                        Apply
+                                    </button> 
+                                </div>
+                            </form>
+                            <a href="shop-cart.html" class="theme-btn">
+                                Update Cart
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-xl-3">
+                        <div class="table-responsive cart-total">
+                            <table class="table">
+                               
+
+
+                                    <thead>
+                                    <tr>
+                                        <th>Cart Total</th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                    <tr>
+                                        <td>
+                                            <span class="d-flex gap-5 align-items-center justify-content-between">
+                                                <span class="sub-title">Subtotal:</span>
+                                                <span class="sub-price">$@BooksPrice</span>
+                                            </span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <span class="d-flex gap-5 align-items-center  justify-content-between">
+                                                <span class="sub-title">Shipping:</span>
+                                                <span class="sub-text">
+                                                    Free
+                                                </span>
+                                            </span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <span class="d-flex gap-5 align-items-center  justify-content-between">
+                                                <span class="sub-title">Total: </span>
+                                                <span class="sub-price sub-price-total">$@BooksPrice</span>
+                                            </span>
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                                
+                            </table>
+                            <a href="checkout.html" class="theme-btn">Proceed to checkout</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    

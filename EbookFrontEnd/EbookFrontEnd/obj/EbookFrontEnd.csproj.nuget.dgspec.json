@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd.csproj": {}
+    "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd.csproj": {}
   },
   "projects": {
-    "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd.csproj": {
+    "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd.csproj",
+        "projectUniqueName": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd.csproj",
         "projectName": "EbookFrontEnd",
-        "projectPath": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd.csproj",
+        "projectPath": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd.csproj",
         "packagesPath": "/Users/macbookpro/.nuget/packages/",
-        "outputPath": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/obj/",
+        "outputPath": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macbookpro/.nuget/NuGet/NuGet.Config"
@@ -43,6 +43,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "cloudscribe.Pagination.Models": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "cloudscribe.Web.Pagination": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

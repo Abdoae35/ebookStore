@@ -1,1203 +1,1219 @@
 {
   "Files": [
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/obj/Debug/net8.0/scopedcss/projectbundle/EbookFrontEnd.bundle.scp.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/obj/Debug/net8.0/scopedcss/projectbundle/EbookFrontEnd.bundle.scp.css",
       "PackagePath": "staticwebassets/EbookFrontEnd.bundle.scp.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/css/all.min.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/css/all.min.css",
       "PackagePath": "staticwebassets/css/all.min.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/css/animate.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/css/animate.css",
       "PackagePath": "staticwebassets/css/animate.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/css/bootstrap.min.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/css/bootstrap.min.css",
       "PackagePath": "staticwebassets/css/bootstrap.min.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/css/color.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/css/color.css",
       "PackagePath": "staticwebassets/css/color.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/css/icomoon.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/css/icomoon.css",
       "PackagePath": "staticwebassets/css/icomoon.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/css/magnific-popup.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/css/magnific-popup.css",
       "PackagePath": "staticwebassets/css/magnific-popup.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/css/main.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/css/main.css",
       "PackagePath": "staticwebassets/css/main.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/css/main.css.map",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/css/main.css.map",
       "PackagePath": "staticwebassets/css/main.css.map"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/css/meanmenu.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/css/meanmenu.css",
       "PackagePath": "staticwebassets/css/meanmenu.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/css/nice-select.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/css/nice-select.css",
       "PackagePath": "staticwebassets/css/nice-select.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/css/site.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/css/swiper-bundle.min.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/css/swiper-bundle.min.css",
       "PackagePath": "staticwebassets/css/swiper-bundle.min.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/favicon.ico",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/404.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/404.png",
       "PackagePath": "staticwebassets/img/404.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/GooglePay.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/GooglePay.png",
       "PackagePath": "staticwebassets/img/GooglePay.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/Mastercard2.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/Mastercard2.png",
       "PackagePath": "staticwebassets/img/Mastercard2.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/PayPal.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/PayPal.png",
       "PackagePath": "staticwebassets/img/PayPal.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/about.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/about.jpg",
       "PackagePath": "staticwebassets/img/about.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/affirm.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/affirm.png",
       "PackagePath": "staticwebassets/img/affirm.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/amazon.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/amazon.png",
       "PackagePath": "staticwebassets/img/amazon.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/banner/book-1.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/banner/book-1.png",
       "PackagePath": "staticwebassets/img/banner/book-1.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/banner/book-2.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/banner/book-2.png",
       "PackagePath": "staticwebassets/img/banner/book-2.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/banner/book-3.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/banner/book-3.png",
       "PackagePath": "staticwebassets/img/banner/book-3.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/banner/book-banner-1.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/banner/book-banner-1.jpg",
       "PackagePath": "staticwebassets/img/banner/book-banner-1.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/banner/book-banner-2.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/banner/book-banner-2.jpg",
       "PackagePath": "staticwebassets/img/banner/book-banner-2.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/banner/book-banner-3.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/banner/book-banner-3.jpg",
       "PackagePath": "staticwebassets/img/banner/book-banner-3.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book-categori/01.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book-categori/01.png",
       "PackagePath": "staticwebassets/img/book-categori/01.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book-categori/02.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book-categori/02.png",
       "PackagePath": "staticwebassets/img/book-categori/02.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book-categori/03.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book-categori/03.png",
       "PackagePath": "staticwebassets/img/book-categori/03.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book-categori/04.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book-categori/04.png",
       "PackagePath": "staticwebassets/img/book-categori/04.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book-categori/05.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book-categori/05.png",
       "PackagePath": "staticwebassets/img/book-categori/05.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book-categori/06.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book-categori/06.png",
       "PackagePath": "staticwebassets/img/book-categori/06.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book-categori/circle-shape.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book-categori/circle-shape.png",
       "PackagePath": "staticwebassets/img/book-categori/circle-shape.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book-shape.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book-shape.png",
       "PackagePath": "staticwebassets/img/book-shape.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book/01.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book/01.png",
       "PackagePath": "staticwebassets/img/book/01.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book/02.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book/02.png",
       "PackagePath": "staticwebassets/img/book/02.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book/03.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book/03.png",
       "PackagePath": "staticwebassets/img/book/03.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book/04.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book/04.png",
       "PackagePath": "staticwebassets/img/book/04.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book/05.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book/05.png",
       "PackagePath": "staticwebassets/img/book/05.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book/06.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book/06.png",
       "PackagePath": "staticwebassets/img/book/06.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book/07.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book/07.png",
       "PackagePath": "staticwebassets/img/book/07.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book/08.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book/08.png",
       "PackagePath": "staticwebassets/img/book/08.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book/09.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book/09.png",
       "PackagePath": "staticwebassets/img/book/09.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book/10.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book/10.png",
       "PackagePath": "staticwebassets/img/book/10.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book/11.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book/11.png",
       "PackagePath": "staticwebassets/img/book/11.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/boy-shape.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book/Book1.png",
+      "PackagePath": "staticwebassets/img/book/Book1.png"
+    },
+    {
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book/Book3.png",
+      "PackagePath": "staticwebassets/img/book/Book3.png"
+    },
+    {
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/book/book2.png",
+      "PackagePath": "staticwebassets/img/book/book2.png"
+    },
+    {
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/boy-shape.png",
       "PackagePath": "staticwebassets/img/boy-shape.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/chevron-down.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/chevron-down.svg",
       "PackagePath": "staticwebassets/img/chevron-down.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/chevron-right.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/chevron-right.svg",
       "PackagePath": "staticwebassets/img/chevron-right.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/circle-shape.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/circle-shape.png",
       "PackagePath": "staticwebassets/img/circle-shape.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/contact.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/contact.jpg",
       "PackagePath": "staticwebassets/img/contact.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/cta-banner.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/cta-banner.jpg",
       "PackagePath": "staticwebassets/img/cta-banner.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/cta-banner2.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/cta-banner2.jpg",
       "PackagePath": "staticwebassets/img/cta-banner2.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/cutomerio.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/cutomerio.png",
       "PackagePath": "staticwebassets/img/cutomerio.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/dropbox.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/dropbox.png",
       "PackagePath": "staticwebassets/img/dropbox.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/facebook.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/facebook.png",
       "PackagePath": "staticwebassets/img/facebook.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/favicon.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/favicon.png",
       "PackagePath": "staticwebassets/img/favicon.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/favicon.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/favicon.svg",
       "PackagePath": "staticwebassets/img/favicon.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/girl-shape-2.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/girl-shape-2.png",
       "PackagePath": "staticwebassets/img/girl-shape-2.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/girl-shape.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/girl-shape.png",
       "PackagePath": "staticwebassets/img/girl-shape.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/google.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/google.png",
       "PackagePath": "staticwebassets/img/google.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/bg-shape.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/Ebook.png",
+      "PackagePath": "staticwebassets/img/hero/Ebook.png"
+    },
+    {
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/bg-shape.png",
       "PackagePath": "staticwebassets/img/hero/bg-shape.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/bg-shape2.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/bg-shape2.png",
       "PackagePath": "staticwebassets/img/hero/bg-shape2.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/book.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/book.png",
       "PackagePath": "staticwebassets/img/hero/book.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/book1.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/book1.png",
       "PackagePath": "staticwebassets/img/hero/book1.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/book2.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/book2.png",
       "PackagePath": "staticwebassets/img/hero/book2.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/frame-2.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/frame-2.png",
       "PackagePath": "staticwebassets/img/hero/frame-2.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/frame-shape.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/frame-shape.png",
       "PackagePath": "staticwebassets/img/hero/frame-shape.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/frame.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/frame.png",
       "PackagePath": "staticwebassets/img/hero/frame.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/hero-book.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/hero-book.png",
       "PackagePath": "staticwebassets/img/hero/hero-book.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/hero-girl.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/hero-girl.png",
       "PackagePath": "staticwebassets/img/hero/hero-girl.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/hero2-bg.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/hero2-bg.png",
       "PackagePath": "staticwebassets/img/hero/hero2-bg.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/hero2-shape1.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/hero2-shape1.png",
       "PackagePath": "staticwebassets/img/hero/hero2-shape1.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/hero2-shape2.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/hero2-shape2.png",
       "PackagePath": "staticwebassets/img/hero/hero2-shape2.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/try.jpeg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/try.jpeg",
       "PackagePath": "staticwebassets/img/hero/try.jpeg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/xstar.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/hero/xstar.png",
       "PackagePath": "staticwebassets/img/hero/xstar.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-1.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-1.svg",
       "PackagePath": "staticwebassets/img/icon/icon-1.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-10.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-10.svg",
       "PackagePath": "staticwebassets/img/icon/icon-10.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-11.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-11.svg",
       "PackagePath": "staticwebassets/img/icon/icon-11.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-12.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-12.svg",
       "PackagePath": "staticwebassets/img/icon/icon-12.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-13.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-13.svg",
       "PackagePath": "staticwebassets/img/icon/icon-13.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-14.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-14.svg",
       "PackagePath": "staticwebassets/img/icon/icon-14.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-15.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-15.svg",
       "PackagePath": "staticwebassets/img/icon/icon-15.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-16.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-16.svg",
       "PackagePath": "staticwebassets/img/icon/icon-16.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-17.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-17.svg",
       "PackagePath": "staticwebassets/img/icon/icon-17.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-18.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-18.svg",
       "PackagePath": "staticwebassets/img/icon/icon-18.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-19.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-19.svg",
       "PackagePath": "staticwebassets/img/icon/icon-19.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-2.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-2.svg",
       "PackagePath": "staticwebassets/img/icon/icon-2.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-20.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-20.svg",
       "PackagePath": "staticwebassets/img/icon/icon-20.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-21.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-21.svg",
       "PackagePath": "staticwebassets/img/icon/icon-21.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-22.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-22.svg",
       "PackagePath": "staticwebassets/img/icon/icon-22.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-23.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-23.svg",
       "PackagePath": "staticwebassets/img/icon/icon-23.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-3.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-3.svg",
       "PackagePath": "staticwebassets/img/icon/icon-3.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-4.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-4.svg",
       "PackagePath": "staticwebassets/img/icon/icon-4.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-5.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-5.svg",
       "PackagePath": "staticwebassets/img/icon/icon-5.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-6.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-6.svg",
       "PackagePath": "staticwebassets/img/icon/icon-6.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-7.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-7.svg",
       "PackagePath": "staticwebassets/img/icon/icon-7.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-8.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-8.svg",
       "PackagePath": "staticwebassets/img/icon/icon-8.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-9.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/icon-9.svg",
       "PackagePath": "staticwebassets/img/icon/icon-9.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/shuffle.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/icon/shuffle.svg",
       "PackagePath": "staticwebassets/img/icon/shuffle.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/logo/black-logo.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/logo/black-logo.svg",
       "PackagePath": "staticwebassets/img/logo/black-logo.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/logo/white-logo.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/logo/white-logo.svg",
       "PackagePath": "staticwebassets/img/logo/white-logo.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/mastercard.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/mastercard.png",
       "PackagePath": "staticwebassets/img/mastercard.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/01.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/01.jpg",
       "PackagePath": "staticwebassets/img/news/01.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/02.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/02.jpg",
       "PackagePath": "staticwebassets/img/news/02.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/03.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/03.jpg",
       "PackagePath": "staticwebassets/img/news/03.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/04.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/04.jpg",
       "PackagePath": "staticwebassets/img/news/04.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/05.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/05.jpg",
       "PackagePath": "staticwebassets/img/news/05.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/06.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/06.jpg",
       "PackagePath": "staticwebassets/img/news/06.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/07.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/07.jpg",
       "PackagePath": "staticwebassets/img/news/07.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/08.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/08.jpg",
       "PackagePath": "staticwebassets/img/news/08.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/09.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/09.jpg",
       "PackagePath": "staticwebassets/img/news/09.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/10.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/10.jpg",
       "PackagePath": "staticwebassets/img/news/10.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/11.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/11.jpg",
       "PackagePath": "staticwebassets/img/news/11.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/12.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/12.jpg",
       "PackagePath": "staticwebassets/img/news/12.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/13.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/13.jpg",
       "PackagePath": "staticwebassets/img/news/13.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/14.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/14.jpg",
       "PackagePath": "staticwebassets/img/news/14.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/15.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/15.jpg",
       "PackagePath": "staticwebassets/img/news/15.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/16.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/16.jpg",
       "PackagePath": "staticwebassets/img/news/16.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/comment-2.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/comment-2.png",
       "PackagePath": "staticwebassets/img/news/comment-2.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/comment.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/comment.png",
       "PackagePath": "staticwebassets/img/news/comment.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/post-1.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/post-1.jpg",
       "PackagePath": "staticwebassets/img/news/post-1.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/post-2.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/post-2.jpg",
       "PackagePath": "staticwebassets/img/news/post-2.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/post-3.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/post-3.jpg",
       "PackagePath": "staticwebassets/img/news/post-3.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/post-4.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/post-4.jpg",
       "PackagePath": "staticwebassets/img/news/post-4.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/post-5.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/post-5.jpg",
       "PackagePath": "staticwebassets/img/news/post-5.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/post-6.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/post-6.jpg",
       "PackagePath": "staticwebassets/img/news/post-6.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/pp3.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/pp3.jpg",
       "PackagePath": "staticwebassets/img/news/pp3.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/pp4.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/pp4.jpg",
       "PackagePath": "staticwebassets/img/news/pp4.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/pp5.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/news/pp5.jpg",
       "PackagePath": "staticwebassets/img/news/pp5.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/payoneer.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/payoneer.png",
       "PackagePath": "staticwebassets/img/payoneer.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/plane-shape.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/plane-shape.png",
       "PackagePath": "staticwebassets/img/plane-shape.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/popupBg.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/popupBg.png",
       "PackagePath": "staticwebassets/img/popupBg.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/registrationbg.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/registrationbg.jpg",
       "PackagePath": "staticwebassets/img/registrationbg.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-banner.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-banner.jpg",
       "PackagePath": "staticwebassets/img/shop-banner.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-cart/01.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-cart/01.png",
       "PackagePath": "staticwebassets/img/shop-cart/01.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-cart/02.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-cart/02.png",
       "PackagePath": "staticwebassets/img/shop-cart/02.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-cart/03.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-cart/03.png",
       "PackagePath": "staticwebassets/img/shop-cart/03.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-cart/post-3.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-cart/post-3.jpg",
       "PackagePath": "staticwebassets/img/shop-cart/post-3.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-details/01.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-details/01.png",
       "PackagePath": "staticwebassets/img/shop-details/01.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-details/02.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-details/02.png",
       "PackagePath": "staticwebassets/img/shop-details/02.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-details/03.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-details/03.png",
       "PackagePath": "staticwebassets/img/shop-details/03.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-details/04.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-details/04.png",
       "PackagePath": "staticwebassets/img/shop-details/04.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-details/05.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-details/05.png",
       "PackagePath": "staticwebassets/img/shop-details/05.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-details/review.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-details/review.png",
       "PackagePath": "staticwebassets/img/shop-details/review.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-details/sm-1.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-details/sm-1.png",
       "PackagePath": "staticwebassets/img/shop-details/sm-1.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-details/sm-2.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-details/sm-2.png",
       "PackagePath": "staticwebassets/img/shop-details/sm-2.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-details/sm-3.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-details/sm-3.png",
       "PackagePath": "staticwebassets/img/shop-details/sm-3.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-details/sm-4.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-details/sm-4.png",
       "PackagePath": "staticwebassets/img/shop-details/sm-4.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-details/sm-5.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-details/sm-5.png",
       "PackagePath": "staticwebassets/img/shop-details/sm-5.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-list/01.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-list/01.png",
       "PackagePath": "staticwebassets/img/shop-list/01.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-list/02.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-list/02.png",
       "PackagePath": "staticwebassets/img/shop-list/02.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-list/03.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-list/03.png",
       "PackagePath": "staticwebassets/img/shop-list/03.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-list/04.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/shop-list/04.png",
       "PackagePath": "staticwebassets/img/shop-list/04.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/sign/create.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/sign/create.png",
       "PackagePath": "staticwebassets/img/sign/create.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/sign/fb.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/sign/fb.png",
       "PackagePath": "staticwebassets/img/sign/fb.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/sign/google.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/sign/google.png",
       "PackagePath": "staticwebassets/img/sign/google.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/sign/login.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/sign/login.png",
       "PackagePath": "staticwebassets/img/sign/login.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/signUpbg.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/signUpbg.jpg",
       "PackagePath": "staticwebassets/img/signUpbg.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/team/01.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/team/01.jpg",
       "PackagePath": "staticwebassets/img/team/01.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/team/02.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/team/02.jpg",
       "PackagePath": "staticwebassets/img/team/02.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/team/03.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/team/03.jpg",
       "PackagePath": "staticwebassets/img/team/03.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/team/04.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/team/04.jpg",
       "PackagePath": "staticwebassets/img/team/04.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/team/05.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/team/05.jpg",
       "PackagePath": "staticwebassets/img/team/05.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/team/06.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/team/06.jpg",
       "PackagePath": "staticwebassets/img/team/06.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/team/bg-shape.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/team/bg-shape.png",
       "PackagePath": "staticwebassets/img/team/bg-shape.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/team/details.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/team/details.png",
       "PackagePath": "staticwebassets/img/team/details.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/team/shape-img.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/team/shape-img.png",
       "PackagePath": "staticwebassets/img/team/shape-img.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/testimonial/01.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/testimonial/01.jpg",
       "PackagePath": "staticwebassets/img/testimonial/01.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/testimonial/02.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/testimonial/02.jpg",
       "PackagePath": "staticwebassets/img/testimonial/02.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/testimonial/03.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/testimonial/03.jpg",
       "PackagePath": "staticwebassets/img/testimonial/03.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/testimonial/04.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/testimonial/04.jpg",
       "PackagePath": "staticwebassets/img/testimonial/04.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/testimonial/client-1.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/testimonial/client-1.png",
       "PackagePath": "staticwebassets/img/testimonial/client-1.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/testimonial/client-2.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/testimonial/client-2.png",
       "PackagePath": "staticwebassets/img/testimonial/client-2.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/testimonial/client-3.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/testimonial/client-3.png",
       "PackagePath": "staticwebassets/img/testimonial/client-3.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/testimonial/client-4.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/testimonial/client-4.png",
       "PackagePath": "staticwebassets/img/testimonial/client-4.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/testimonial/client-5.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/testimonial/client-5.png",
       "PackagePath": "staticwebassets/img/testimonial/client-5.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/testimonial/logo1.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/testimonial/logo1.png",
       "PackagePath": "staticwebassets/img/testimonial/logo1.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/testimonial/logo2.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/testimonial/logo2.png",
       "PackagePath": "staticwebassets/img/testimonial/logo2.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/testimonial/shape.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/testimonial/shape.svg",
       "PackagePath": "staticwebassets/img/testimonial/shape.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/top-book/01.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/top-book/01.png",
       "PackagePath": "staticwebassets/img/top-book/01.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/top-book/02.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/top-book/02.png",
       "PackagePath": "staticwebassets/img/top-book/02.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/top-book/03.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/top-book/03.png",
       "PackagePath": "staticwebassets/img/top-book/03.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/top-book/04.jpg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/top-book/04.jpg",
       "PackagePath": "staticwebassets/img/top-book/04.jpg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/top-book/04.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/top-book/04.png",
       "PackagePath": "staticwebassets/img/top-book/04.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/top-book/05.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/top-book/05.png",
       "PackagePath": "staticwebassets/img/top-book/05.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/top-book/06.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/top-book/06.png",
       "PackagePath": "staticwebassets/img/top-book/06.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/img/visa-logo.png",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/img/visa-logo.png",
       "PackagePath": "staticwebassets/img/visa-logo.png"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/js/ajax-mail.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/js/ajax-mail.js",
       "PackagePath": "staticwebassets/js/ajax-mail.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/js/bootstrap.bundle.min.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/js/bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/js/circle-progress.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/js/circle-progress.js",
       "PackagePath": "staticwebassets/js/circle-progress.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/js/gsap.min.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/js/gsap.min.js",
       "PackagePath": "staticwebassets/js/gsap.min.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/js/jquery-3.7.1.min.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/js/jquery-3.7.1.min.js",
       "PackagePath": "staticwebassets/js/jquery-3.7.1.min.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/js/jquery.counterup.min.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/js/jquery.counterup.min.js",
       "PackagePath": "staticwebassets/js/jquery.counterup.min.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/js/jquery.magnific-popup.min.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/js/jquery.magnific-popup.min.js",
       "PackagePath": "staticwebassets/js/jquery.magnific-popup.min.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/js/jquery.meanmenu.min.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/js/jquery.meanmenu.min.js",
       "PackagePath": "staticwebassets/js/jquery.meanmenu.min.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/js/jquery.nice-select.min.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/js/jquery.nice-select.min.js",
       "PackagePath": "staticwebassets/js/jquery.nice-select.min.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/js/jquery.waypoints.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/js/jquery.waypoints.js",
       "PackagePath": "staticwebassets/js/jquery.waypoints.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/js/main.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/js/main.js",
       "PackagePath": "staticwebassets/js/main.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/js/site.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/js/swiper-bundle.min.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/js/swiper-bundle.min.js",
       "PackagePath": "staticwebassets/js/swiper-bundle.min.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/js/viewport.jquery.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/js/viewport.jquery.js",
       "PackagePath": "staticwebassets/js/viewport.jquery.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/js/wow.min.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/js/wow.min.js",
       "PackagePath": "staticwebassets/js/wow.min.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/LICENSE",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/LICENSE",
       "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/jquery-validation/LICENSE.md",
       "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/jquery/LICENSE.txt",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/jquery/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/jquery/dist/jquery.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/jquery/dist/jquery.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/jquery/dist/jquery.min.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_about.scss",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_about.scss",
       "PackagePath": "staticwebassets/scss/_about.scss"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_animation.scss",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_animation.scss",
       "PackagePath": "staticwebassets/scss/_animation.scss"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_buttons.scss",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_buttons.scss",
       "PackagePath": "staticwebassets/scss/_buttons.scss"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_contact.scss",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_contact.scss",
       "PackagePath": "staticwebassets/scss/_contact.scss"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_cta.scss",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_cta.scss",
       "PackagePath": "staticwebassets/scss/_cta.scss"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_faq.scss",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_faq.scss",
       "PackagePath": "staticwebassets/scss/_faq.scss"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_feature.scss",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_feature.scss",
       "PackagePath": "staticwebassets/scss/_feature.scss"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_footer.scss",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_footer.scss",
       "PackagePath": "staticwebassets/scss/_footer.scss"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_header.scss",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_header.scss",
       "PackagePath": "staticwebassets/scss/_header.scss"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_helping.scss",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_helping.scss",
       "PackagePath": "staticwebassets/scss/_helping.scss"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_hero.scss",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_hero.scss",
       "PackagePath": "staticwebassets/scss/_hero.scss"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_meanmenu.scss",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_meanmenu.scss",
       "PackagePath": "staticwebassets/scss/_meanmenu.scss"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_mixins.scss",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_mixins.scss",
       "PackagePath": "staticwebassets/scss/_mixins.scss"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_news.scss",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_news.scss",
       "PackagePath": "staticwebassets/scss/_news.scss"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_preloader.scss",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_preloader.scss",
       "PackagePath": "staticwebassets/scss/_preloader.scss"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_section.scss",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_section.scss",
       "PackagePath": "staticwebassets/scss/_section.scss"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_shop.scss",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_shop.scss",
       "PackagePath": "staticwebassets/scss/_shop.scss"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_team.scss",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_team.scss",
       "PackagePath": "staticwebassets/scss/_team.scss"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_testimonial.scss",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_testimonial.scss",
       "PackagePath": "staticwebassets/scss/_testimonial.scss"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_typography.scss",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_typography.scss",
       "PackagePath": "staticwebassets/scss/_typography.scss"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_variables.scss",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/_variables.scss",
       "PackagePath": "staticwebassets/scss/_variables.scss"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/main.scss",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/scss/main.scss",
       "PackagePath": "staticwebassets/scss/main.scss"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-brands-400.ttf",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-brands-400.ttf",
       "PackagePath": "staticwebassets/webfonts/fa-brands-400.ttf"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-brands-400.woff2",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-brands-400.woff2",
       "PackagePath": "staticwebassets/webfonts/fa-brands-400.woff2"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-duotone-900.ttf",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-duotone-900.ttf",
       "PackagePath": "staticwebassets/webfonts/fa-duotone-900.ttf"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-duotone-900.woff2",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-duotone-900.woff2",
       "PackagePath": "staticwebassets/webfonts/fa-duotone-900.woff2"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-light-300.ttf",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-light-300.ttf",
       "PackagePath": "staticwebassets/webfonts/fa-light-300.ttf"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-light-300.woff2",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-light-300.woff2",
       "PackagePath": "staticwebassets/webfonts/fa-light-300.woff2"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-regular-400.ttf",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-regular-400.ttf",
       "PackagePath": "staticwebassets/webfonts/fa-regular-400.ttf"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-regular-400.woff2",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-regular-400.woff2",
       "PackagePath": "staticwebassets/webfonts/fa-regular-400.woff2"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-solid-900.ttf",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-solid-900.ttf",
       "PackagePath": "staticwebassets/webfonts/fa-solid-900.ttf"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-solid-900.woff2",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-solid-900.woff2",
       "PackagePath": "staticwebassets/webfonts/fa-solid-900.woff2"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-thin-100.ttf",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-thin-100.ttf",
       "PackagePath": "staticwebassets/webfonts/fa-thin-100.ttf"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-thin-100.woff2",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-thin-100.woff2",
       "PackagePath": "staticwebassets/webfonts/fa-thin-100.woff2"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-v4compatibility.ttf",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-v4compatibility.ttf",
       "PackagePath": "staticwebassets/webfonts/fa-v4compatibility.ttf"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-v4compatibility.woff2",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/fa-v4compatibility.woff2",
       "PackagePath": "staticwebassets/webfonts/fa-v4compatibility.woff2"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/icomoon.eot",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/icomoon.eot",
       "PackagePath": "staticwebassets/webfonts/icomoon.eot"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/icomoon.svg",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/icomoon.svg",
       "PackagePath": "staticwebassets/webfonts/icomoon.svg"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/icomoon.ttf",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/icomoon.ttf",
       "PackagePath": "staticwebassets/webfonts/icomoon.ttf"
     },
     {
-      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/icomoon.woff",
+      "Id": "/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/wwwroot/webfonts/icomoon.woff",
       "PackagePath": "staticwebassets/webfonts/icomoon.woff"
     },
     {

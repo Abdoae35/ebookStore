@@ -1,0 +1,66 @@
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml"; <!-- Use your layout file -->
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-6">
+            <div class="identityBox">
+                <div class="form-wrapper">
+                    <h1>Welcome back!</h1>
+                    <form asp-action="Login" asp-controller="Login" method="post">
+                        <div class="mb-3">
+                            <input class="inputField form-control" type="email" name="email" placeholder="Email Address" required>
+                        </div>
+                        <div class="mb-3">
+                            <input class="inputField form-control" type="password" name="password" placeholder="Enter Password" required>
+                        </div>
+                        <div class="input-check remember-me mb-3">
+                            <div class="checkbox-wrapper">
+                                <input type="checkbox" class="form-check-input" name="save-for-next" id="saveForNext">
+                                <label for="saveForNext">Remember me</label>
+                            </div>
+                            <div class="text">
+                                <a asp-action="ForgotPassword" asp-controller="Account">Forgot Your password?</a>
+                            </div>
+                        </div>
+                        <div class="loginBtn mb-3">
+                            <button type="submit" class="theme-btn rounded-0 w-100">Log in</button>
+                        </div>
+                        <div class="orting-badge mb-3">
+                            Or
+                        </div>
+                        <div class="mb-3">
+                            <a class="another-option" href="https://www.google.com/">
+                                <img src="~/img/google.png" alt="google">
+                                Continue With Google
+                            </a>
+                        </div>
+                        <div class="mb-3">
+                            <a class="another-option another-option-two" href="https://www.facebook.com/">
+                                <img src="~/img/facebook.png" alt="facebook">
+                                Continue With Facebook
+                            </a>
+                        </div>
+                        <div class="form-check-3 d-flex align-items-center from-customradio-2 mt-3">
+                            <input class="form-check-input" type="radio" name="flexRadioDefault" required>
+                            <label class="form-check-label">
+                                I Accept Your Terms & Conditions
+                            </label>
+                        </div>
+                    </form>
+                </div>
+
+                <div class="banner">
+                    <div class="d-flex gap-2 mb-3">
+                        <a asp-action="Login" asp-controller="Login" class="rounded-0 login-btn btn">Log in</a>
+                        <a asp-action="Register" asp-controller="Login" class="theme-btn rounded-0 register-btn btn">Create Account</a>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

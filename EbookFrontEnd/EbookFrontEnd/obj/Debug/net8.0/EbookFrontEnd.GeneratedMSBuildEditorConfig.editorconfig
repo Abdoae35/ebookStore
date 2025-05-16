@@ -9,39 +9,63 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EbookFrontEnd
 build_property.RootNamespace = EbookFrontEnd
-build_property.ProjectDir = /Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/
+build_property.ProjectDir = /Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd
+build_property.MSBuildProjectDirectory = /Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/Views/Home/Index.cshtml]
+[/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/Views/Books/GetAllBooks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va3MvR2V0QWxsQm9va3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/Views/Carts/AddItemToCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydHMvQWRkSXRlbVRvQ2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/Views/Carts/GetAllItemInCarts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydHMvR2V0QWxsSXRlbUluQ2FydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/Views/Home/Privacy.cshtml]
+[/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/Views/Shared/Error.cshtml]
+[/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/Views/Login/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/Views/Login/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/Views/_ViewImports.cshtml]
+[/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/Views/_ViewStart.cshtml]
+[/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/Views/Shared/_Layout.cshtml]
+[/Users/macbookpro/RiderProjects/EbookFrontEnd/EbookFrontEnd/EbookFrontEnd/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-gllv8sk036

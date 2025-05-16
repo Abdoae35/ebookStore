@@ -111,10 +111,12 @@ Description: Bookle - Book Store WooCommerce Html Template
         }
 
         if ($('.book-slider').length > 0) {
+            const slideCount = document.querySelectorAll('.book-slider .swiper-slide').length;
+
             const bookSlider = new Swiper(".book-slider", {
                 spaceBetween: 30,
                 speed: 2000,
-                loop: true,
+                loop: slideCount > 2, // Only enable loop if more than 2 books
                 autoplay: {
                     delay: 2000,
                     disableOnInteraction: false,
