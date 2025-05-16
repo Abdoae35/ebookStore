@@ -1,0 +1,10 @@
+global using Microsoft.AspNetCore.Mvc;
+global using E_Book_Store.BLL.Manager.OrderManager;
+global using E_Book_Store.BLL.Manager;
+global using E_Book_Store.BLL.Manager.UserManager;
+global using E_Book_Store.DAL.Context;
+global using E_Book_Store.DAL.Models;
+global using E_Book_Store.DAL.Repository.OrderRepository;
+global using E_Book_Store.DAL.Repository.UserRepository;
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.EntityFrameworkCore;
